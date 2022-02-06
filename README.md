@@ -1,2 +1,2 @@
 # Steen-Stealer-
-Extract the grab file of the game to your desktop and open it that way 
+Extract the grab file of the to your desktop and open it that way 
